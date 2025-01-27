@@ -130,4 +130,4 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 
 Happy coding!
 
-[Testing](TESTING.md)
+[Testing](TESTING)
